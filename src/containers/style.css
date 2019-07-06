@@ -1,0 +1,14 @@
+.main-home {	
+	background-image: url(img/backgroud.png);	
+	padding-top: 100px;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	background-position-y: 68%;
+	margin-top: 20px;
+}
+
+.main-auth {
+	height: 100%;
+	width: 100%;
+}

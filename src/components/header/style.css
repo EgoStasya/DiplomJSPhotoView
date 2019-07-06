@@ -1,0 +1,22 @@
+.header {  
+  background-color: #f5f5f5;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color: #861919;
+  margin: 0;
+}
+
+.aphorism {
+  text-align: right;
+  color: #861919;
+  margin: 0;
+}
+
+.title {
+  font-family: Splash;
+}

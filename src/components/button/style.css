@@ -1,0 +1,72 @@
+.btn-auth {
+  display: block;
+  background-color: #f5f5f5;
+  border-radius: 20px;  
+  height: 55px;
+  width: 225px; 
+  border: none;  
+  font-family: 16px;
+  color: #861919;
+  font-family: "Bookman Old Style";  
+  margin: 0 auto;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-load-photo {
+  display: block;
+  background-color: #861919;
+  border-radius: 20px;  
+  height: 55px;
+  width: 225px; 
+  border: none;  
+  font-family: 16px;
+  color: #f5f5f5;
+  font-family: "Bookman Old Style";  
+  margin: 0 auto;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-go-back {
+  height: 25px;
+  width: 25px;
+  float: right;
+  background-image: url(img/arrow.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f5f5f5;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-like-photo {
+  height: 15px;
+  width: 15px;
+  float: right;
+  margin-top: 5px;
+  margin-right: 2px;
+  background-image: url(img/like.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f5f5f5;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-unlike-photo {
+  height: 15px;
+  width: 15px;
+  float: right;
+  margin-top: 5px;
+  margin-right: 2px;
+  background-image: url(img/unlike.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f5f5f5;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
